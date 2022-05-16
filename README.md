@@ -4,7 +4,7 @@ I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I 
 
 ⚡ Fun fact: I code games for fun :see_no_evil:.
 🔭 I’m currently working on a Blog.
-🗣️ :de: 🇺🇸 :es: & a little 🇫🇷
+🗣️ :de: 🇺🇸 :es: & a little bit of 🇫🇷
 
 
 Things I like:
