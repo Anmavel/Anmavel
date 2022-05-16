@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning Web development with Django & Python 🐍, as well as work with Oracle Databases. 
+I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning Web development with Django & Python 🐍, as well as work with Oracle Databases.
+
+⚡ Fun fact: I code games for fun (as beginner :see_no_evil:).
+
 
 <!--
 **Anmavel/Anmavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
