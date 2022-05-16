@@ -2,9 +2,9 @@
 
 I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning Web development with Django & Python 🐍, as well as work with Oracle Databases.
 
-⚡ Fun fact: I code games for fun (as beginner :see_no_evil:).
+⚡ Fun fact: I code games for fun :see_no_evil:.
 🔭 I’m currently working on a Blog.
-🗣️ :de: 🇺🇸 :es: 
+🗣️ :de: 🇺🇸 :es: & a little 🇫🇷
 
 
 Things I like:
