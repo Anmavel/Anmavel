@@ -4,10 +4,12 @@ I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I 
 
 ⚡ Fun fact: I code games for fun (as beginner :see_no_evil:).
 🔭 I’m currently working on a Blog.
+🗣️ :de: 🇺🇸 :es: 
+
 
 Things I like:
 
-🖌️, ✈️, 🗣️ :de: 🇺🇸 :es:
+🖌️, ✈️, :world_map:
 
 
 <!--
