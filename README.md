@@ -1,15 +1,16 @@
+![un5](https://user-images.githubusercontent.com/81617975/168893292-93eb1077-28fb-4871-9404-110277c78f3a.jpg)
+
 I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning Web development with Django & Python 🐍, as well as work with Oracle Databases.
 
-Fun fact: I code games for fun :see_no_evil:.
+About me: 
+
+⚡ Fun fact: I code games for fun :see_no_evil:.
 
 🔭 I’m currently working on a Blog.
 
 🗣️ :de: 🇺🇸 :es: & some 🇫🇷
 
-
-Things I like:
-
-🖌️, ✈️, :world_map:
+Things I like:🖌️, ✈️, :world_map:
 
 
 <!--
@@ -26,4 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![un5](https://user-images.githubusercontent.com/81617975/168893292-93eb1077-28fb-4871-9404-110277c78f3a.jpg)
+
