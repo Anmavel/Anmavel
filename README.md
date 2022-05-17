@@ -1,4 +1,4 @@
-![un5](https://user-images.githubusercontent.com/81617975/168893292-93eb1077-28fb-4871-9404-110277c78f3a.jpg)
+![Banner_2](https://user-images.githubusercontent.com/81617975/168915991-1164eff0-c604-4cef-8412-e59cb81b8149.png)
 
 I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning Web development with Django & Python 🐍, as well as work with Oracle Databases.
 
