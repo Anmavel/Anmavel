@@ -4,7 +4,7 @@ Fun fact: I code games for fun :see_no_evil:.
 
 🔭 I’m currently working on a Blog.
 
-🗣️ :de: 🇺🇸 :es: & a little bit of 🇫🇷
+🗣️ :de: 🇺🇸 :es: & some 🇫🇷
 
 
 Things I like:
