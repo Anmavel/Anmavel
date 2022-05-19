@@ -1,10 +1,10 @@
 ![Banner_2](https://user-images.githubusercontent.com/81617975/168915991-1164eff0-c604-4cef-8412-e59cb81b8149.png)
 
-I´m Ana from Colombia and I work on Automation with LabVIEW 👩‍💻. Now I enjoy learning web development with Django & Python 🐍, as well as working with Oracle Databases.
+I´m Ana from Colombia and I work on Automation with TestStand & LabVIEW. Now I enjoy learning web development with Django & Python 🐍, as well as working with Oracle Databases.
 
 About me: 
 
-⚡ Fun fact: I code games for fun :see_no_evil:.
+⚡ Fun fact: I code games for fun.
 
 🔭 I’m currently working on a Blog.
 
