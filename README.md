@@ -4,7 +4,7 @@ I´m Ana from Colombia and I work on Automation with TestStand & LabVIEW. Now I 
 
 About me: 
 
-⚡ Fun fact: I code games for fun.
+⚡ I code games for fun.
 
 🔭 I’m currently working on a Blog.
 
