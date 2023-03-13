@@ -1,6 +1,6 @@
 ![Banner_1 _19052022](https://user-images.githubusercontent.com/81617975/169380981-6aed4abf-bea3-431a-a8f1-6158bd82def6.png)
 
-I´m Ana from Colombia and I work on Automation with TestStand & LabVIEW. Now I enjoy learning web development with Django & Python 🐍, as well as working with Oracle Databases.
+I´m Ana from Colombia and I work on Automation with TestStand & LabVIEW. Now I enjoy learning web development with Django & Python 🐍.
 
 About me: 
 
