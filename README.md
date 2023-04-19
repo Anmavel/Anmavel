@@ -1,6 +1,6 @@
 ![Banner_1 _19052022](https://user-images.githubusercontent.com/81617975/169380981-6aed4abf-bea3-431a-a8f1-6158bd82def6.png)
 
-I'm Ana from Colombia and I recently completed a bootcamp as a fullstack developer with Java from Neuefische. My Capstone Project in Bootcamp was called PetFit and you can find it in my repositories. Prior to the bootcamp, I worked in test equipment development (sequence programming) with TestStand and LabView. I also have professional experience with Python and have privately educated myself with courses in web development with Django and Python.
+I'm Ana from Colombia and I recently completed a bootcamp as a fullstack developer with Java from Neuefische. My Capstone Project in Bootcamp was called PetFit and you can find it in my repositories. Prior to the bootcamp, I worked in testbench (sequence programming) with TestStand and LabView. I also have professional experience with Python and have privately educated myself with courses in web development with Django and Python.
 
 In my free time, I enjoy coding games for fun. I speak German, English, Spanish, and some French. Some of my favorite things include art (🖌️), traveling (✈️), and exploring new places (🗺️).
 ________________________________________________________________________________________________________________________________________________________
