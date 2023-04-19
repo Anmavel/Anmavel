@@ -4,7 +4,7 @@ I'm Ana from Colombia and I recently completed a bootcamp as a fullstack develop
 
 In my free time, I enjoy coding games for fun. I speak German, English, Spanish, and some French. Some of my favorite things include art (🖌️), traveling (✈️), and exploring new places (🗺️).
 ________________________________________________________________________________________________________________________________________________________
-Ich bin Ana aus Kolumbien und habe kürzlich ein Bootcamp als Full-Stack-Entwicklerin mit Java bei Neuefische abgeschlossen. Mein Capstone-Projekt im Bootcamp hieß PetFit und Sie können es in meinen Repositories finden. Vor dem Bootcamp habe ich in der Entwicklung von Testgeräten (Sequenzprogrammierung) mit TestStand und LabView gearbeitet. Ich habe auch professionelle Erfahrung mit Python und habe mich privat mit Kursen in Webentwicklung mit Django und Python weitergebildet.
+Ich bin Ana aus Kolumbien und habe kürzlich ein Bootcamp als Full-Stack-Entwicklerin mit Java bei Neuefische abgeschlossen. Mein Capstone-Projekt im Bootcamp hieß PetFit und Sie können es in meinen Repositories finden. Vor dem Bootcamp habe ich in der Entwicklung von Prüfplätze (Sequenzprogrammierung) mit TestStand und LabView gearbeitet. Ich habe auch professionelle Erfahrung mit Python und habe mich privat mit Kursen in Webentwicklung mit Django und Python weitergebildet.
 
 In meiner Freizeit programmiere ich gerne Spiele zum Spaß. Ich spreche Deutsch, Englisch, Spanisch und etwas Französisch. Zu meinen Lieblingsbeschäftigungen gehören Kunst (🖌️), Reisen (✈️) und das Erkunden neuer Orte (🗺️).
 
