@@ -1,4 +1,4 @@
-![Banner_1 _19052022](https://user-images.githubusercontent.com/81617975/169380981-6aed4abf-bea3-431a-a8f1-6158bd82def6.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmavel)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello, I'm Ana from Colombia and I recently completed a bootcamp as a Java fullstack developer from Neuefische. My Capstone Project in Bootcamp was called PetFit and you can find it in my repositories [PetFit](https://github.com/Anmavel/PetFit). Prior to the bootcamp, I worked in TestBenchs development (sequence programming) with TestStand and LabView. I also have professional experience with Python and have privately educated myself with courses in web development with Django and Python.
 
