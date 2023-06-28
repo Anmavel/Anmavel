@@ -15,7 +15,7 @@ Hallo, ich bin Ana aus Kolumbien und habe kürzlich ein Bootcamp als Java Fullst
 
 Andere Projekte, die ich während des Bootcamps gemacht habe, befinden sich in den folgenden Repositories:
 
--[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). You can find the deployed version at: (https://fly.io/apps/taskslist).
+-[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). Die bereitgestellte Version finden Sie unter:(https://fly.io/apps/taskslist).
 
 -[Rick_And_Morty](https://github.com/Anmavel/Rick_And_Morty_Paging_Task)
 
