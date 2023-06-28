@@ -3,8 +3,8 @@ Hello, I'm Ana from Colombia and I recently completed a bootcamp as a Java fulls
 
 Other projects that I made during the Bootcamp can be found in the following repositories:
 
-[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). You can find the deployed version at: (https://fly.io/apps/taskslist).
-[Rick_And_Morty](https://github.com/Anmavel/Rick_And_Morty_Paging_Task)
+-[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). You can find the deployed version at: (https://fly.io/apps/taskslist).
+-[Rick_And_Morty](https://github.com/Anmavel/Rick_And_Morty_Paging_Task)
 
 Prior to the bootcamp, I worked in TestBenchs development (sequence programming) with TestStand and LabView. I also have professional experience with Python and have privately educated myself with courses in web development with Django and Python.
 
@@ -14,8 +14,8 @@ Hallo, ich bin Ana aus Kolumbien und habe kürzlich ein Bootcamp als Java Fullst
 
 Andere Projekte, die ich während des Bootcamps gemacht habe, befinden sich in den folgenden Repositories:
 
-[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). You can find the deployed version at: (https://fly.io/apps/taskslist).
-[Rick_And_Morty](https://github.com/Anmavel/Rick_And_Morty_Paging_Task)
+-[Taskslist](https://github.com/Anmavel/neuefische-spring-security-cgn-java-23-1). You can find the deployed version at: (https://fly.io/apps/taskslist).
+-[Rick_And_Morty](https://github.com/Anmavel/Rick_And_Morty_Paging_Task)
 
 Vor dem Bootcamp habe ich in der Entwicklung von Prüfplätze (Sequenzprogrammierung) mit TestStand und LabView gearbeitet. Ich habe auch professionelle Erfahrung mit Python und habe mich privat mit Kursen in Webentwicklung mit Django und Python weitergebildet.
 
